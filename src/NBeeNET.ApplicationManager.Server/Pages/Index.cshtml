@@ -1,0 +1,15 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">应用程序列表</h1>
+    <p class="text-left">
+        @foreach (var app in (string[])ViewData["ApplicationList"])
+        {
+        <a href="Details?appName=@app"> @app </a><br>
+        }
+    </p>
+</div>

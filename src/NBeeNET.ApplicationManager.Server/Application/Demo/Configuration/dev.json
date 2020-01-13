@@ -1,0 +1,4 @@
+{
+  /*监控Redis*/
+  "Monitor_Redis_Connection": "success"
+}

@@ -1,0 +1,14 @@
+bin
+obj
+publish
+/src/NBeeNET.ApplicationManager.Server/prodprivatekey.xml
+/src/NBeeNET.ApplicationManager.Server/prodpublickey.xml
+/src/NBeeNET.ApplicationManager.Server/publickey.xml
+/src/NBeeNET.ApplicationManager.Server/privatekey.xml
+/.vs
+/src/NBeeNET.ApplicationManager.ConsoleApp/privatekey.xml
+/src/NBeeNET.ApplicationManager.ConsoleApp/prodprivatekey.xml
+/src/NBeeNET.ApplicationManager.Server/Application/DuoxiClass
+/src/NBeeNET.ApplicationManager.Server/Application/SceneClass
+/src/NBeeNET.ApplicationManager.Server/Application/SceneClass_AI
+/src/.vs
